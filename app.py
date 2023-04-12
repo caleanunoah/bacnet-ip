@@ -4,7 +4,6 @@ import time
 import BoC
 import mysql.connector
 from mysql.connector import errorcode
-import flask
 
 # Define some constants
 local_ipv4_addr = "192.168.1.73/24"                      # local machine's wireless LAN ipv4 address
